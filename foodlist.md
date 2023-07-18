@@ -32,6 +32,22 @@
 
     * 맛은 있는데 그냥 양 많은 닭갈비 
 
+* 그냥찌개집 (★★★★☆)
+    * 식당링크
+    !(https://map.naver.com/v5/search/%EC%97%AD%EC%82%BC%EC%97%AD%20%EA%B9%80%EC%B9%98%EC%B0%8C%EA%B0%9C%EC%A7%91/place/1829544680?placePath=%3Fentry%253Dpll&c=16.19,0,0,0,dh)
+
+    <img src = "김치찌개.jpeg" width = "30%" height = "30%"> 
+
+    * 그냥 김치찌개 (무난무난)
+
+* 이도곰탕 (★★★☆☆)
+    * 식당링크
+    !(https://map.naver.com/v5/search/%EC%97%AD%EC%82%BC%EC%97%AD%20%EC%9D%B4%EB%8F%84%EA%B3%B0%ED%83%95/place/20454572?c=16.19,0,0,0,dh&isCorrectAnswer=true)
+
+    <img src = "곰통.jpg" width = "30%" height = "30%"> 
+
+    * 12000원 치고는 많이 아쉬움..
+    * 매우 무난한 곰탕맛 
 
 
 
